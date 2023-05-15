@@ -4,11 +4,11 @@
 <img align="right" width="300em" height="300em" src="https://raw.githubusercontent.com/robertomarkus/robertomarkus/main/markrothink.gif?raw=true"/>
 <br><br><br>
 
-- We are united by the **Code** <img src="./emoji/colaboration.png" width="30" height="30"/>
+- <h2>We are united by the **Code** <img src="./emoji/colaboration.png" width="30" height="30"/></h2>
 
-- Raised by the **Faith** <img src="./emoji/love.png" width="30" height="30"/>
+- <h2>Raised by the **Faith** <img src="./emoji/love.png" width="30" height="30"/></h2>
 
-- **Becoming as one** in a church of **Jesus Chirst** <img src="./emoji/welcome.png" width="30" height="30"/>
+- <h2>**Becoming as one** in a church of **Jesus Chirst** <img src="./emoji/welcome.png" width="30" height="30"/></h2>
 
 
 <br><br><br>
