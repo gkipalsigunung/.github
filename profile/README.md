@@ -8,7 +8,7 @@
 
 - <h2>Raised by the Faith <img src="./emoji/love.png" width="30" height="30"/></h2>
 
-- <h2>Becoming as one** in a church of Jesus Chirst <img src="./emoji/welcome.png" width="30" height="30"/></h2>
+- <h2>Becoming as one in a church of Jesus Chirst <img src="./emoji/welcome.png" width="30" height="30"/></h2>
 
 
 <br><br><br>
