@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <h1 align="left">< !-- Hi there, <img src="./emoji/wave.png" width="40" height="40"/> Welcome to my Github --></h1>
 <img align="right" width="300em" height="300em" src="https://raw.githubusercontent.com/robertomarkus/robertomarkus/main/markrothink.gif?raw=true"/>
