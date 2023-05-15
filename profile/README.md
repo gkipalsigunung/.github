@@ -14,7 +14,7 @@
 <br><br><br>
 - There are some resource that is not visible to public, if you have any purposes related please contact the **owner/administrator**. <img src="./emoji/monocle.png" width="30" height="30"/>
 
-- For Developer or Creator **please read the documentation** <a href="https://app.gitbook.com/invite/cQ6kUyMFyAa37O8p4fQd/ieLD0WhEqiATbkav319g" target="_blank">[here]</a>  <img src="./emoji/winking.png" width="30" height="30"/>
+- For Developer or Creator **please read the documentation** <a href="https://app.gitbook.com/invite/cQ6kUyMFyAa37O8p4fQd/ieLD0WhEqiATbkav319g">[here]</a>  <img src="./emoji/winking.png" width="30" height="30"/>
 
 
 
