@@ -9,6 +9,10 @@
 
 - **Becoming as one** in a church of **Jesus Chirst** <img src="./emoji/monocle.png" width="30" height="30"/>
 
+
+
+
+
 - For Developer or Creator please read the documentation here  <img src="./emoji/welcome.png" width="30" height="30"/>
 
 - There are some resource that is not visible to public, if you have any purposes related please contact the owner/administrator.
