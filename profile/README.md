@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-<h1 align="left"><img src="./emoji/wave.png" width="40" height="40"/> Welcome to GKI Palsigunung Development Playground</h1>
+<h1 align="left"><img src="[https://github.com/lmarkrol/lmarkrol/blob/main/emoji/wave.png" width="40" height="40"/> Welcome to GKI Palsigunung Development Playground</h1>
 <img align="right" width="300em" height="300em" src="https://raw.githubusercontent.com/robertomarkus/robertomarkus/main/markrothink.gif?raw=true"/>
 <br><br><br>
 
